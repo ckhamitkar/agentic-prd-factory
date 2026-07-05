@@ -1,0 +1,25 @@
+Opportunity: Plain-Language Medication Information Assistant
+
+Many people leave the pharmacy holding a bottle and a folded sheet of small-print
+instructions they cannot fully parse. The label says "take one tablet by mouth twice
+daily" but rarely explains what the drug is for in plain terms, what the common
+warnings mean, or what questions to bring back to a pharmacist. Confusion here leads
+to missed doses, doubled doses, and unnecessary calls to already-busy clinics.
+
+The idea is an educational assistant that takes the text of a medication label or
+instruction sheet and re-explains it in plain, everyday language: what the instruction
+is asking the person to do, what common terms mean, and what warnings to be aware of.
+It is strictly educational. It does not diagnose, screen, assess, or treat anything,
+and it does not give medical advice. Every response reminds the user to confirm
+anything important with a licensed pharmacist or doctor.
+
+Target users are everyday patients and the family members or helpers who manage
+medications for them. The product should be simple, accessible to people with a wide
+range of literacy and languages, and privacy-preserving - it should ask for as little
+personal information as possible.
+
+Open questions for the factory to pressure-test: What is the simplest delivery surface
+that reaches real users? What is a sustainable way to fund it without compromising the
+privacy or educational-only positioning? Where are the regulatory lines, and how does
+the product stay clearly on the educational side of them? Who, if anyone, is a willing
+buyer or sponsor, and what would they be buying?

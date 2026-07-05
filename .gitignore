@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Python
+.venv/
+.venv_mac/
+.venv_linux/
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+__MACOSX/
+
+# Local tooling
+.claude/settings.local.json
+debug_output.txt
+
+# Generated outputs - the public repo ships the ENGINE, not runs
+projects/
+*.pdf
+prd.md
+prd1.md

@@ -1,0 +1,3 @@
+# Orchestration Logic: Conflict Resolution Matrix
+1. UX vs Security -> PO Decides
+2. Sales vs Engineering -> MVP wins...
