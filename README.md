@@ -4,6 +4,8 @@
 
 An agentic product-definition factory: a multi-agent LangGraph pipeline that pressure-tests an opportunity across 13 expert lenses - 3 rounds of consensus, a conflict matrix, and a human sign-off gate - and produces a decision-ready PRD before anything gets built.
 
+> This is a sanitized release of the internal factory used at [Axion AI](https://www.axionaiapps.com) to turn product opportunities into vetted PRDs. The engine is intact; the private business context it scores against has been replaced with a generic, illustrative example (see [`product_context.md`](product_context.md)).
+
 ## How it works
 
 The pipeline runs a panel of 13 role-agents (Product Owner, Architect, Engineering, QA, Finance, Marketing, Sales, Business Analyst, UI/UX, Security, Legal, User Proxy, Data/Analytics) through a structured protocol:
